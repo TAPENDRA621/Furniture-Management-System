@@ -1,0 +1,18 @@
+BRJ Furniture Stores - Invoice
+Date: 2024-10-04 11:30:28.212746
+Name: Tsering Tamang
+
++----+-------------------------+-----------------+----------+--------+------------+
+| ID | Manufacturer            | Product Name    | Quantity | Price  | Total      |
++----+-------------------------+-----------------+----------+--------+------------+
+| F001 | Wooden Chair            | Seating         |        4 | $1500.00 | $   6000.00 |
+| F004 | Metal Cabinet           | Storage         |        3 | $3000.00 | $   9000.00 |
++----+-------------------------+-----------------+----------+--------+------------+
+
+Subtotal: $15000.00
+VAT (13%): $1950.00
+Total with VAT: $16950.00
+Shipping Cost: $50.00
+Total Amount: $17000.00
+
+Thank you for your business!

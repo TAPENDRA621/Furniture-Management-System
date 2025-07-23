@@ -1,0 +1,6 @@
+F001, Wooden Chair, Seating, 126, $1500.0
+F002, Glass Table, Table, 5, $4500.0
+F003, Leather Sofa, Seating, 7, $8500.0
+F004, Metal Cabinet, Storage, 8, $3000.0
+F005, Queen Bed, Bedroom, 7, $9500.0
+F006, Dining Table, Table, 16, $6000.0

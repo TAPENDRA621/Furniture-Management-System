@@ -1,0 +1,17 @@
+BRJ Furniture Stores - Invoice
+Date: 2024-10-04 11:51:54.615231
+Name: Rahul
+
++----+-------------------------+-----------------+----------+--------+------------+
+| ID | Manufacturer            | Product Name    | Quantity | Price  | Total      |
++----+-------------------------+-----------------+----------+--------+------------+
+| F004 | Metal Cabinet           | Storage         |        4 | $3000.00 | $  12000.00 |
++----+-------------------------+-----------------+----------+--------+------------+
+
+Subtotal: $12000.00
+VAT (13%): $1560.00
+Total with VAT: $13560.00
+Shipping Cost: $50.00
+Total Amount: $13610.00
+
+Thank you for your business!

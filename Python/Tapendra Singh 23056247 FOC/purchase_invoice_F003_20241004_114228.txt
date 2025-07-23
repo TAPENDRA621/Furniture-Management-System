@@ -1,0 +1,17 @@
+BRJ Furniture Stores - Invoice
+Date: 2024-10-04 11:42:28.384033
+Name: tapendra
+
++----+-------------------------+-----------------+----------+--------+------------+
+| ID | Manufacturer            | Product Name    | Quantity | Price  | Total      |
++----+-------------------------+-----------------+----------+--------+------------+
+| F003 | Leather Sofa            | Seating         |        4 | $8500.00 | $  34000.00 |
++----+-------------------------+-----------------+----------+--------+------------+
+
+Subtotal: $34000.00
+VAT (13%): $4420.00
+Total with VAT: $38420.00
+Shipping Cost: $50.00
+Total Amount: $38470.00
+
+Thank you for your business!

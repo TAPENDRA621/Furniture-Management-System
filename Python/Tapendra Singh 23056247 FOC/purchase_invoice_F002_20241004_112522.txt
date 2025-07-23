@@ -1,0 +1,17 @@
+BRJ Furniture Stores - Invoice
+Date: 2024-10-04 11:25:22.801636
+Name: Tapendra
+
++----+-------------------------+-----------------+----------+--------+------------+
+| ID | Manufacturer            | Product Name    | Quantity | Price  | Total      |
++----+-------------------------+-----------------+----------+--------+------------+
+| F002 | Glass Table             | Table           |        2 | $4500.00 | $   9000.00 |
++----+-------------------------+-----------------+----------+--------+------------+
+
+Subtotal: $9000.00
+VAT (13%): $1170.00
+Total with VAT: $10170.00
+Shipping Cost: $50.00
+Total Amount: $10220.00
+
+Thank you for your business!

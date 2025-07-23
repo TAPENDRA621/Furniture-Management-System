@@ -1,0 +1,17 @@
+BRJ Furniture Stores - Invoice
+Date: 2024-08-18 10:43:57.718339
+Name: Tapendra
+
++----+-------------------------+-----------------+----------+--------+------------+
+| ID | Manufacturer            | Product Name    | Quantity | Price  | Total      |
++----+-------------------------+-----------------+----------+--------+------------+
+| F001 | Wooden Chair            | Seating         |       12 | $1500.00 | $  18000.00 |
++----+-------------------------+-----------------+----------+--------+------------+
+
+Subtotal: $18000.00
+VAT (13%): $2340.00
+Total with VAT: $20340.00
+Shipping Cost: $50.00
+Total Amount: $20390.00
+
+Thank you for your business!
